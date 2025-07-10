@@ -1,0 +1,2 @@
+vehicle_id,vin,make,model,year,engine_type,purchase_date,current_mileage,license_plate
+1,1HGCM82633A123456,Honda,Accord,2020,"2.0L Turbo",2020-03-15,38500,ABC1234

@@ -1,0 +1,4 @@
+vin,make,model,year,service_date,mileage,service_name,cost,service_notes,service_center
+1HGCM82633A123456,Honda,Accord,2020,2023-01-10,32000,"Oil Change",59.99,"Used synthetic oil","QuickLube Pro"
+1HGCM82633A123456,Honda,Accord,2020,2023-01-10,32000,"Tire Rotation",29.99,"Standard rotation pattern","QuickLube Pro"
+1HGCM82633A123456,Honda,Accord,2020,2023-07-15,37000,"Oil Change",64.99,"Synthetic oil with filter","Dealer Service"

@@ -1,0 +1,5 @@
+vehicle_id,vin,make,model,year,engine_type,purchase_date,current_mileage,license_plate
+2,5XYZH4AG4JH123456,Toyota,Camry,2018,"2.5L Hybrid",2018-06-22,67250,XYZ5678
+1,1HGCM82633A123456,Honda,Accord,2020,"2.0L Turbo",2020-03-15,38500,ABC1234
+3,WAUZZZ4G6BN123456,Audi,A4,2021,"2.0L TFSI",2021-01-10,18750,AUDI202
+4,1C4RJFBG5EC123456,Jeep,Wrangler,2022,"3.6L V6",2022-05-05,12500,JEEP4X4

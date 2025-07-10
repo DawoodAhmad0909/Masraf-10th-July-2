@@ -1,0 +1,4 @@
+Onwer_name,email,phone,address,number_of_vehicles
+"John Smith",john.smith@email.com,555-123-4567,"123 Main St, Anytown",2
+"Sarah Johnson",sarah.j@email.com,555-234-5678,"456 Oak Ave, Somewhere",1
+"Michael Williams",NULL,555-345-6789,"789 Pine Rd, Nowhere",1
